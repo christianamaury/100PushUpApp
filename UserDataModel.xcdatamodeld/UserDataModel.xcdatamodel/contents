@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21G83" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="UserEntity" representedClassName="UserEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="amountPushUps" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="deletedData" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="selectedDays" optional="YES" attributeType="String"/>
+        <attribute name="week1day1AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week1day1BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week1day1MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week1day2AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week1day2BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week1day2MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week1day3AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week1day3BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week1day3MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week2day1AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week2day1BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week2day1MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week2day2AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week2day2BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week2day2MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week2day3AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week2day3BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week2day3MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week3day1AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week3day1BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week3day1MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week3day2AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week3day2BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week3day2MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week3day3AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week3day3BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week3day3MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week4day1AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week4day1BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week4day1MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week4day2AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week4day2BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week4day2MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week4day3AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week4day3BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week4day3MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week5day1AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week5day1BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week5day1MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week5day2AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week5day2BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week5day2MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week5day3AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week5day3BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week5day3MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week6day1AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week6day1BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week6day1MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week6day2AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week6day2BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week6day2MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week6day3AdvanceCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week6day3BasicCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="week6day3MediumCompletion" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="weekCompleted" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="UserEntity" positionX="-18" positionY="0" width="128" height="899"/>
+    </elements>
+</model>

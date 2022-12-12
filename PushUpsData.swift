@@ -8,7 +8,8 @@
 import Foundation
 import UIKit
 
-class Week1
+
+class Weeks
 {
     var Week: String
     var Week1Low1: [String]
@@ -22,8 +23,6 @@ class Week1
         self.Week1Medium1 = Week1Medium1
         self.Week1High1 = Week1High1
     }
-    
-  
     
 }
 
